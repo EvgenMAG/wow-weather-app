@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AleksaHrevtsova/weather-app.git"
+    "url": "git+https://github.com/EvgenMAG/wow-weather-app"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://evgenmag.github.io/wow-weather-app/",
   "devDependencies": {
     "@babel/core": "^7.12.8",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
@@ -41,6 +41,7 @@
   },
   "dependencies": {
     "gh-pages": "^3.1.0",
+    "lodash.debounce": "^4.0.8",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0",
